@@ -11,10 +11,12 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:x
+|2,0,1690899219,,"x"
+:q
+|2,0,1690899170,,"q"
 :wq
 |2,0,1690897697,,"wq"
-:x
-|2,0,1690897314,,"x"
 
 # Search String History (newest to oldest):
 
@@ -27,18 +29,126 @@
 # Registers:
 
 # File marks:
-'0  1  0  ~/zero_day/README.md
-|4,48,1,0,1690897697,"~/zero_day/README.md"
-'1  8  1  ~/README.md
-|4,49,8,1,1690897314,"~/README.md"
+'0  1  0  ~/README.md
+|4,48,1,0,1690899219,"~/README.md"
+'1  1  0  ~/REAME.md
+|4,49,1,0,1690899170,"~/REAME.md"
+'2  1  0  ~/zero_day/README.md
+|4,50,1,0,1690898887,"~/zero_day/README.md"
+'3  1  0  ~/zero_day/0x00-vagrant/zero_day
+|4,51,1,0,1690898763,"~/zero_day/0x00-vagrant/zero_day"
+'4  1  0  ~/zero_day/README.md
+|4,52,1,0,1690897697,"~/zero_day/README.md"
+'5  8  1  ~/README.md
+|4,53,8,1,1690897314,"~/README.md"
 
 # Jumplist (newest first):
+-'  1  0  ~/README.md
+|4,39,1,0,1690899219,"~/README.md"
+-'  1  0  ~/REAME.md
+|4,39,1,0,1690899170,"~/REAME.md"
+-'  1  0  ~/REAME.md
+|4,39,1,0,1690899170,"~/REAME.md"
+-'  1  0  ~/zero_day/README.md
+|4,39,1,0,1690898887,"~/zero_day/README.md"
+-'  1  0  ~/zero_day/README.md
+|4,39,1,0,1690898887,"~/zero_day/README.md"
+-'  1  0  ~/zero_day/README.md
+|4,39,1,0,1690898887,"~/zero_day/README.md"
+-'  1  0  ~/zero_day/README.md
+|4,39,1,0,1690898887,"~/zero_day/README.md"
+-'  1  0  ~/zero_day/0x00-vagrant/zero_day
+|4,39,1,0,1690898763,"~/zero_day/0x00-vagrant/zero_day"
+-'  1  0  ~/zero_day/0x00-vagrant/zero_day
+|4,39,1,0,1690898763,"~/zero_day/0x00-vagrant/zero_day"
+-'  1  0  ~/zero_day/0x00-vagrant/zero_day
+|4,39,1,0,1690898763,"~/zero_day/0x00-vagrant/zero_day"
+-'  1  0  ~/zero_day/0x00-vagrant/zero_day
+|4,39,1,0,1690898763,"~/zero_day/0x00-vagrant/zero_day"
+-'  1  0  ~/zero_day/0x00-vagrant/zero_day
+|4,39,1,0,1690898763,"~/zero_day/0x00-vagrant/zero_day"
+-'  1  0  ~/zero_day/0x00-vagrant/zero_day
+|4,39,1,0,1690898763,"~/zero_day/0x00-vagrant/zero_day"
+-'  1  0  ~/zero_day/0x00-vagrant/zero_day
+|4,39,1,0,1690898763,"~/zero_day/0x00-vagrant/zero_day"
+-'  1  0  ~/zero_day/0x00-vagrant/zero_day
+|4,39,1,0,1690898763,"~/zero_day/0x00-vagrant/zero_day"
+-'  1  0  ~/zero_day/README.md
+|4,39,1,0,1690897697,"~/zero_day/README.md"
+-'  1  0  ~/zero_day/README.md
+|4,39,1,0,1690897697,"~/zero_day/README.md"
+-'  1  0  ~/zero_day/README.md
+|4,39,1,0,1690897697,"~/zero_day/README.md"
+-'  1  0  ~/zero_day/README.md
+|4,39,1,0,1690897697,"~/zero_day/README.md"
+-'  1  0  ~/zero_day/README.md
+|4,39,1,0,1690897697,"~/zero_day/README.md"
+-'  1  0  ~/zero_day/README.md
+|4,39,1,0,1690897697,"~/zero_day/README.md"
+-'  1  0  ~/zero_day/README.md
+|4,39,1,0,1690897697,"~/zero_day/README.md"
 -'  1  0  ~/zero_day/README.md
 |4,39,1,0,1690897697,"~/zero_day/README.md"
 -'  8  1  ~/README.md
 |4,39,8,1,1690897314,"~/README.md"
 -'  8  1  ~/README.md
 |4,39,8,1,1690897314,"~/README.md"
+-'  8  1  ~/README.md
+|4,39,8,1,1690897314,"~/README.md"
+-'  8  1  ~/README.md
+|4,39,8,1,1690897314,"~/README.md"
+-'  8  1  ~/README.md
+|4,39,8,1,1690897314,"~/README.md"
+-'  8  1  ~/README.md
+|4,39,8,1,1690897314,"~/README.md"
+-'  8  1  ~/README.md
+|4,39,8,1,1690897314,"~/README.md"
+-'  8  1  ~/README.md
+|4,39,8,1,1690897314,"~/README.md"
+-'  8  1  ~/README.md
+|4,39,8,1,1690897314,"~/README.md"
+-'  8  1  ~/README.md
+|4,39,8,1,1690897314,"~/README.md"
+-'  8  1  ~/README.md
+|4,39,8,1,1690897314,"~/README.md"
+-'  8  1  ~/README.md
+|4,39,8,1,1690897314,"~/README.md"
+-'  8  1  ~/README.md
+|4,39,8,1,1690897314,"~/README.md"
+-'  8  1  ~/README.md
+|4,39,8,1,1690897314,"~/README.md"
+-'  8  1  ~/README.md
+|4,39,8,1,1690897314,"~/README.md"
+-'  8  1  ~/README.md
+|4,39,8,1,1690897314,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1690897167,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1690897167,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1690897167,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1690897167,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1690897167,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1690897167,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1690897167,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1690897167,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1690897167,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1690897167,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1690897167,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1690897167,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1690897167,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1690897167,"~/README.md"
 -'  1  0  ~/README.md
 |4,39,1,0,1690897167,"~/README.md"
 -'  1  0  ~/README.md
@@ -46,25 +156,37 @@
 
 # History of marks within files (newest to oldest):
 
-> ~/zero_day/README.md
-	*	1690897695	0
+> ~/README.md
+	*	1690899218	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	284
+	+	1	157
+	+	1	1
+	+	1	396
+	+	1	367
+	+	1	397
+	+	1	368
+	+	1	339
+	+	1	323
+	+	1	304
+	+	1	287
+	+	1	292
+	+	1	260
+	+	1	286
+	+	1	0
+
+> ~/REAME.md
+	*	1690899169	0
 	"	1	0
 	^	1	0
 
-> ~/README.md
-	*	1690897280	0
-	"	8	1
-	^	8	2
-	.	8	1
-	+	7	3
-	+	4	2
-	+	1	1
-	+	14	0
-	+	13	0
-	+	14	1
-	+	13	1
-	+	12	1
-	+	11	1
-	+	10	1
-	+	9	1
-	+	8	1
+> ~/zero_day/README.md
+	*	1690898885	0
+	"	1	0
+	^	1	0
+
+> ~/zero_day/0x00-vagrant/zero_day
+	*	1690898761	0
+	"	1	0
