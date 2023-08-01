@@ -11,6 +11,8 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:wq
+|2,0,1690897697,,"wq"
 :x
 |2,0,1690897314,,"x"
 
@@ -25,16 +27,29 @@
 # Registers:
 
 # File marks:
-'0  8  1  ~/README.md
-|4,48,8,1,1690897314,"~/README.md"
+'0  1  0  ~/zero_day/README.md
+|4,48,1,0,1690897697,"~/zero_day/README.md"
+'1  8  1  ~/README.md
+|4,49,8,1,1690897314,"~/README.md"
 
 # Jumplist (newest first):
+-'  1  0  ~/zero_day/README.md
+|4,39,1,0,1690897697,"~/zero_day/README.md"
+-'  8  1  ~/README.md
+|4,39,8,1,1690897314,"~/README.md"
 -'  8  1  ~/README.md
 |4,39,8,1,1690897314,"~/README.md"
 -'  1  0  ~/README.md
 |4,39,1,0,1690897167,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1690897167,"~/README.md"
 
 # History of marks within files (newest to oldest):
+
+> ~/zero_day/README.md
+	*	1690897695	0
+	"	1	0
+	^	1	0
 
 > ~/README.md
 	*	1690897280	0
